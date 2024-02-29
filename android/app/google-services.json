@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318241637045",
+    "project_id": "pushnoti-e31fa",
+    "storage_bucket": "pushnoti-e31fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318241637045:android:9617267ba273f1334db4fc",
+        "android_client_info": {
+          "package_name": "com.pushnoti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Evy9BdGXr_CY8nzqHbtPcsBAHaWE_s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
